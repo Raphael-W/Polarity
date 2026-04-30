@@ -1,0 +1,2 @@
+*.shader linguist-vendored=true
+*.cs linguist-language=C#
